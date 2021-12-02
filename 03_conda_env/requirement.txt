@@ -1,0 +1,13 @@
+python==3.8.8
+#tensorflow-gpu==2.2.0
+scikit-learn==0.24.1
+scipy==1.6.2
+natsort==7.0.1
+ffmpeg==4.3.1
+pysoundfile==0.10.3.post1
+librosa==0.7.1
+pytorch==1.8.1
+torchvision==0.9.1
+numba==0.48
+#h5py==3.2.1
+pandas==1.0.3

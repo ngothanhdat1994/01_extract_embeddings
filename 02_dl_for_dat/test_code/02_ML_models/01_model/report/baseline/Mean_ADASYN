@@ -1,0 +1,267 @@
+
+ ============================================ PROCESS FOLD 1...
+
+ ---------- Classifier: LogisticRegression, train 68246 and test 8680
+Training Confusion Matrix:
+[[25558  8524]
+ [ 6296 27868]]
+Training Acc.=0.78
+
+Testing Confusion Matrix:
+[[6377 2158]
+ [  35  110]]
+Testing Acc.=0.75
+
+
+ ---------- Classifier: SVM, train 68246 and test 8680
+Traing Confusion Matrix:
+[[22182 11900]
+ [ 4114 30050]]
+Traing Acc.=0.77
+
+Testing Confusion Matrix:
+[[5500 3035]
+ [  19  126]]
+Testing Acc.=0.65
+
+ ---------- Classifier: Decision Tree, train 68246 and test 8680
+Traing Confusion Matrix:
+[[33177   905]
+ [ 2001 32163]]
+Traing Acc.=0.96
+
+Testing Confusion Matrix:
+[[8290  245]
+ [ 133   12]]
+Testing Acc.=0.96
+
+ ---------- Classifier: Random Forest, train 68246 and test 8680
+Traing Confusion Matrix:
+[[33756   326]
+ [  275 33889]]
+Traing Acc.=0.99
+
+Testing Confusion Matrix:
+[[8310  225]
+ [ 133   12]]
+Testing Acc.=0.96
+
+ ============================================ PROCESS FOLD 2...
+
+ ---------- Classifier: LogisticRegression, train 68116 and test 8680
+Training Confusion Matrix:
+[[25479  8599]
+ [ 6492 27546]]
+Training Acc.=0.78
+
+Testing Confusion Matrix:
+[[6346 2193]
+ [  25  116]]
+Testing Acc.=0.74
+
+
+ ---------- Classifier: SVM, train 68116 and test 8680
+Traing Confusion Matrix:
+[[26395  7683]
+ [ 7562 26476]]
+Traing Acc.=0.78
+
+Testing Confusion Matrix:
+[[6617 1922]
+ [  33  108]]
+Testing Acc.=0.77
+
+ ---------- Classifier: Decision Tree, train 68116 and test 8680
+Traing Confusion Matrix:
+[[33632   446]
+ [ 1839 32199]]
+Traing Acc.=0.97
+
+Testing Confusion Matrix:
+[[8405  134]
+ [ 137    4]]
+Testing Acc.=0.97
+
+ ---------- Classifier: Random Forest, train 68116 and test 8680
+Traing Confusion Matrix:
+[[33748   330]
+ [  294 33744]]
+Traing Acc.=0.99
+
+Testing Confusion Matrix:
+[[8321  218]
+ [ 135    6]]
+Testing Acc.=0.96
+
+ ============================================ PROCESS FOLD 3...
+
+ ---------- Classifier: LogisticRegression, train 68170 and test 8680
+Training Confusion Matrix:
+[[25284  8830]
+ [ 6259 27797]]
+Training Acc.=0.78
+
+Testing Confusion Matrix:
+[[6333 2170]
+ [  36  141]]
+Testing Acc.=0.75
+
+
+ ---------- Classifier: SVM, train 68170 and test 8680
+Traing Confusion Matrix:
+[[21179 12935]
+ [ 2876 31180]]
+Traing Acc.=0.77
+
+Testing Confusion Matrix:
+[[5348 3155]
+ [  17  160]]
+Testing Acc.=0.63
+
+ ---------- Classifier: Decision Tree, train 68170 and test 8680
+Traing Confusion Matrix:
+[[33896   218]
+ [ 2224 31832]]
+Traing Acc.=0.96
+
+Testing Confusion Matrix:
+[[8421   82]
+ [ 175    2]]
+Testing Acc.=0.97
+
+ ---------- Classifier: Random Forest, train 68170 and test 8680
+Traing Confusion Matrix:
+[[33820   294]
+ [  278 33778]]
+Traing Acc.=0.99
+
+Testing Confusion Matrix:
+[[8309  194]
+ [ 166   11]]
+Testing Acc.=0.96
+
+ ============================================ PROCESS FOLD 4...
+
+ ---------- Classifier: LogisticRegression, train 68242 and test 8680
+Training Confusion Matrix:
+[[25375  8714]
+ [ 6228 27925]]
+Training Acc.=0.78
+
+Testing Confusion Matrix:
+[[6364 2164]
+ [  30  122]]
+Testing Acc.=0.75
+
+
+ ---------- Classifier: SVM, train 68242 and test 8680
+Traing Confusion Matrix:
+[[25940  8149]
+ [ 6934 27219]]
+Traing Acc.=0.78
+
+Testing Confusion Matrix:
+[[6471 2057]
+ [  34  118]]
+Testing Acc.=0.76
+
+ ---------- Classifier: Decision Tree, train 68242 and test 8680
+Traing Confusion Matrix:
+[[33165   924]
+ [ 1900 32253]]
+Traing Acc.=0.96
+
+Testing Confusion Matrix:
+[[8251  277]
+ [ 125   27]]
+Testing Acc.=0.95
+
+ ---------- Classifier: Random Forest, train 68242 and test 8680
+Traing Confusion Matrix:
+[[33786   303]
+ [  235 33918]]
+Traing Acc.=0.99
+
+Testing Confusion Matrix:
+[[8311  217]
+ [ 145    7]]
+Testing Acc.=0.96
+
+ ============================================ PROCESS FOLD 5...
+
+ ---------- Classifier: LogisticRegression, train 68041 and test 8680
+Training Confusion Matrix:
+[[25273  8832]
+ [ 6588 27348]]
+Training Acc.=0.77
+
+Testing Confusion Matrix:
+[[6335 2177]
+ [  25  143]]
+Testing Acc.=0.75
+
+
+ ---------- Classifier: SVM, train 68041 and test 8680
+Traing Confusion Matrix:
+[[17812 16293]
+ [ 1751 32185]]
+Traing Acc.=0.73
+
+Testing Confusion Matrix:
+[[4439 4073]
+ [   5  163]]
+Testing Acc.=0.53
+
+ ---------- Classifier: Decision Tree, train 68041 and test 8680
+Traing Confusion Matrix:
+[[33187   918]
+ [ 1813 32123]]
+Traing Acc.=0.96
+
+Testing Confusion Matrix:
+[[8272  240]
+ [ 146   22]]
+Testing Acc.=0.96
+
+ ---------- Classifier: Random Forest, train 68041 and test 8680
+Traing Confusion Matrix:
+[[33795   310]
+ [  287 33649]]
+Traing Acc.=0.99
+
+Testing Confusion Matrix:
+[[8291  221]
+ [ 150   18]]
+Testing Acc.=0.96
+
+
+ ================================== FINAL REPORT: Logistic Regresion...
+ +ROC_AUC_SCORE:0.7757372096128081
+ +ACC:0.7462442396313363
+ +F1_SCORE_WEIGHTED:0.8387141070061439
+ +F1_SCORE_MACRO:0.47753397779976947
+
+
+
+ ================================== FINAL REPORT: SVM...
+ +ROC_AUC_SCORE:0.761400024193992
+ +ACC:0.6693548387096774
+ +F1_SCORE_WEIGHTED:0.7816153052923537
+ +F1_SCORE_MACRO:0.44142022551303317
+
+
+
+ ================================== FINAL REPORT: Decision Tree...
+ +ROC_AUC_SCORE:0.5316292392713894
+ +ACC:0.9609677419354838
+ +F1_SCORE_WEIGHTED:0.9635299201669275
+ +F1_SCORE_MACRO:0.5224680450138383
+
+
+
+ ================================== FINAL REPORT: Random Forest
+ +ROC_AUC_SCORE:0.5214537819605842
+ +ACC:0.9584331797235024
+ +F1_SCORE_WEIGHTED:0.9621148803785926
+ +F1_SCORE_MACRO:0.5172722643799517
+
